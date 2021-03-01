@@ -671,6 +671,9 @@ input,textarea,select{
 .portfolio .container{
   padding-bottom: 40px;
 }
+.portfolio .portfolio-description{
+  margin-bottom: 20px;
+}
 .portfolio .portfolio-filter{
   /* background-color: red; */
   -ms-flex: 0 0 100%
@@ -1060,6 +1063,7 @@ body.dark .aside{
 body.dark .contact-form .text h2,
 body.dark .contact .contact-info-item h4,
 body.dark .blog .blog-item-inner .blog-info .blog-title,
+body.dark .portfolio-description p,
 body.dark .portfolio .portfolio-filter button,
 body.dark .service .service-item .service-item-inner h4,
 body.dark .about .about-content .timeline .timeline-title,
